@@ -1,0 +1,1 @@
+# thesyariah.my.id
