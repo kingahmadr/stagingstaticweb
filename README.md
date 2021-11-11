@@ -1,1 +1,1 @@
-# thesyariah.my.id
+Example site modified from https://github.com/gohugoio/hugoBasicExample
