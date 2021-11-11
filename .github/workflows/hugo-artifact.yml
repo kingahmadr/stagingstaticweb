@@ -32,7 +32,7 @@ jobs:
             # Runs a set of commands using the runners shell
             - name: Generate Hugo site
               #run: cd exampleSite && hugo --gc --themesDir ../..
-              run : hugo --gc --themesDir .
+              run : hugo --gc --themesDir themes/
 
             - name: Upload Hugo artifact
               uses: actions/upload-artifact@v2.2.2
